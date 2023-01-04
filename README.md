@@ -7,7 +7,7 @@ Studied and Analyzed the Stellar Classification dataset to applying ML models an
 
 Performed various Exploratory Data Analysis to understand the data and compare the variables.
 
-Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
+Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, KNN, SVM and Boosting.
 
 Compared the results to recommend the best Machine Learning model.
 
